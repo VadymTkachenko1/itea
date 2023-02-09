@@ -4,9 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4357088e-655a-4833-99c7-852ac8a927a5" name="Changes" comment="">
+    <list default="true" id="4357088e-655a-4833-99c7-852ac8a927a5" name="Changes" comment="Added gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.itea.vadym/OwnTasks/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection1/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection10/Weekday$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection10/Weekday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection2/GeoProgression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection2/MathProgression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection2/Multiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection2/PuzzleTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection2/Subsequence1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection2/Subsequence2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection2/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection3/ArrayTask1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection3/ArrayTask2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection3/ArrayTask3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection3/ArrayTask4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection3/ArrayTask5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection3/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection4/Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection4/AreaCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection4/StringTask1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection4/StringTask2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection4/StringTask3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection4/StringTask4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection4/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection5/Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection5/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection5/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection5/StudentGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection6/GreateBritanHen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection6/Hen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection6/HenFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection6/MoldovanHen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection6/PolishHen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection6/UkrainianHen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection7/BaseConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection8/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection8/BookGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection8/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/itea/HomeTask/lection8/UserInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection1/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection2/GeoProgression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection2/MathProgression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection2/Multiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection2/PuzzleTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection2/Subsequence1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection2/Subsequence2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection2/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection3/ArrayTask1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection3/ArrayTask2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection3/ArrayTask3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection3/ArrayTask4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection3/ArrayTask5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection3/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection4/StringTask1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection4/StringTask2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection4/StringTask3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/iteaClean/HomeTask/lection4/StringTask4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +109,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaRepository/OwnProject"
+    "last_opened_file_path": "C:/Users/user/IdeaRepository/itea"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaRepository\itea" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeTask.lection10.Main" />
@@ -94,6 +160,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675947975772</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added gitignore">
+      <created>1675961803636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675961803636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore" />
   </component>
 </project>
