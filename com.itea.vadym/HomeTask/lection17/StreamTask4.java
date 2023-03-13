@@ -30,6 +30,7 @@ public class StreamTask4 {
         //Повернути суму непарних чисел або 0
         System.out.println(sequence.stream()
                 .filter(element -> element % 2 != 0)
-                .reduce(Integer::sum));
+                .reduce(Integer::sum)
+                .orElse(0));
     }
 }
